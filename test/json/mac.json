@@ -1,0 +1,1281 @@
+{
+  "SPAirPortDataType": [
+    {
+      "spairport_airport_interfaces": [
+        {
+          "_name": "en0",
+          "spairport_airdrop_channel": 149,
+          "spairport_caps_airdrop": "spairport_caps_supported",
+          "spairport_caps_autounlock": "spairport_caps_supported",
+          "spairport_caps_wow": "spairport_caps_supported",
+          "spairport_status_information": "spairport_status_connected",
+          "spairport_supported_channels": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            36,
+            40,
+            44,
+            48,
+            52,
+            56,
+            60,
+            64,
+            100,
+            104,
+            108,
+            112,
+            116,
+            120,
+            124,
+            128,
+            132,
+            136,
+            140,
+            144,
+            149,
+            153,
+            157,
+            161,
+            165
+          ],
+          "spairport_supported_phymodes": "802.11 a/b/g/n/ac",
+          "spairport_wireless_card_type": "spairport_wireless_card_type_airport_extreme (0x14E4, 0x7BF)",
+          "spairport_wireless_country_code": "US",
+          "spairport_wireless_firmware_version": "wl0: Feb 16 2021 03:05:58 version 9.30.444.10.32.5.67 FWID 01-3d719d60",
+          "spairport_wireless_locale": "FCC",
+          "spairport_wireless_mac_address": "88:66:5a:26:ba:31"
+        }
+      ],
+      "spairport_software_information": {
+        "spairport_corewlan_version": "16.0 (1657)",
+        "spairport_corewlankit_version": "16.0 (1657)",
+        "spairport_diagnostics_version": "11.0 (1163)",
+        "spairport_extra_version": "17.0 (1728)",
+        "spairport_family_version": "12.0 (1200.12.2b1)",
+        "spairport_profiler_version": "15.0 (1502)",
+        "spairport_utility_version": "6.3.9 (639.15)"
+      }
+    }
+  ],
+  "SPAudioDataType": [
+    {
+      "_items": [
+        {
+          "_name": "MacBook Pro Microphone",
+          "coreaudio_default_audio_input_device": "spaudio_yes",
+          "coreaudio_device_input": 1,
+          "coreaudio_device_manufacturer": "Apple Inc.",
+          "coreaudio_device_srate": 48000,
+          "coreaudio_device_transport": "coreaudio_device_type_builtin",
+          "coreaudio_input_source": "MacBook Pro Microphone"
+        },
+        {
+          "_name": "MacBook Pro Speakers",
+          "_properties": "coreaudio_default_audio_system_device",
+          "coreaudio_default_audio_output_device": "spaudio_yes",
+          "coreaudio_default_audio_system_device": "spaudio_yes",
+          "coreaudio_device_manufacturer": "Apple Inc.",
+          "coreaudio_device_output": 2,
+          "coreaudio_device_srate": 48000,
+          "coreaudio_device_transport": "coreaudio_device_type_builtin",
+          "coreaudio_output_source": "MacBook Pro Speakers"
+        }
+      ],
+      "_name": "coreaudio_device"
+    }
+  ],
+  "SPBluetoothDataType": [
+    {
+      "apple_bluetooth_version": "8.0.5d7",
+      "device_title": [
+        {
+          "Device 0": {
+            "device_core_spec": "4.2",
+            "device_fw_version": "0x0413",
+            "device_majorClassOfDevice_string": "Audio",
+            "device_manufacturer": "Cambridge Silicon Radio (0x8, 0x35F4)",
+            "device_minorClassOfDevice_string": "Headphones",
+            "device_productID": "0x4020",
+            "device_services": "AudioWear, AudioWear Voice, Wireless iAP, ARfcomm, Hands-Free unit, SPP Dev, Headset",
+            "device_supportsEDR": "attrib_Yes",
+            "device_supportsESCO": "attrib_Yes",
+            "device_supportsSSP": "attrib_Yes",
+            "device_vendorID": "0x009E"
+          }
+        },
+        {
+          "Device 1": {
+            "device_core_spec": "5.2",
+            "device_fw_version": "0x0201",
+            "device_majorClassOfDevice_string": "Phone",
+            "device_manufacturer": "Broadcom (0xB, 0x01)",
+            "device_minorClassOfDevice_string": "Smartphone",
+            "device_productID": "0x0100",
+            "device_services": "SMS/MMS, IcService_New, OBEX Phonebook Access Server, Android Network Access Point, Advanced Audio Source, Handsfree Gateway, OBEX Object Push, IcService_New, Android Network User, AV Remote Control Target, Headset Gateway",
+            "device_supportsEDR": "attrib_Yes",
+            "device_supportsESCO": "attrib_Yes",
+            "device_supportsSSP": "attrib_Yes",
+            "device_vendorID": "0x0075"
+          }
+        },
+        {
+          "Device 2": {
+            "device_core_spec": "5.0",
+            "device_fw_version": "0x0001",
+            "device_majorClassOfDevice_string": "Audio",
+            "device_manufacturer": "Broadcom (0x9, 0x210D)",
+            "device_minorClassOfDevice_string": "Headset",
+            "device_productID": "0xA013",
+            "device_services": "BTIS, GEARMANAGER, Audio Sink, SAMSUNGDEVICE, SPPSERVICE3, SPPSERVICE4",
+            "device_supportsEDR": "attrib_Yes",
+            "device_supportsESCO": "attrib_Yes",
+            "device_supportsSSP": "attrib_Yes",
+            "device_vendorID": "0x0075"
+          }
+        }
+      ],
+      "local_device_title": {
+        "general_autoseek_keyboard": "attrib_On",
+        "general_autoseek_pointing": "attrib_On",
+        "general_chipset": "4364B3",
+        "general_connectable": "attrib_Yes",
+        "general_fw_version": "v65 c4188",
+        "general_hardware_transport": "UART",
+        "general_mfg": "Broadcom",
+        "general_productID": "0x0096",
+        "general_remoteWake": "attrib_On",
+        "general_supports_handoff": "attrib_Yes",
+        "general_supports_instantHotspot": "attrib_Yes",
+        "general_supports_lowEnergy": "attrib_Yes",
+        "general_vendorID": "0x05AC"
+      }
+    }
+  ],
+  "SPCameraDataType": [
+    {
+      "_name": "FaceTime HD Camera (Built-in)",
+      "spcamera_model-id": "UVC Camera VendorID_1452 ProductID_34068",
+      "spcamera_unique-id": "0x8020000005ac8514"
+    }
+  ],
+  "SPCardReaderDataType": [],
+  "SPDiagnosticsDataType": [
+    {
+      "_name": "spdiags_post_value",
+      "spdiags_last_run_key": "2021-08-09T15:24:50Z",
+      "spdiags_result_key": "spdiags_passed_value"
+    }
+  ],
+  "SPDiscBurningDataType": [],
+  "SPDisplaysDataType": [
+    {
+      "_name": "kHW_IntelUHDGraphics630Item",
+      "_spdisplays_vram": "1536 MB",
+      "spdisplays_automatic_graphics_switching": "spdisplays_supported",
+      "spdisplays_device-id": "0x3e9b",
+      "spdisplays_gmux-version": "5.0.0",
+      "spdisplays_metalfamily": "spdisplays_mtlgpufamilymac2",
+      "spdisplays_ndrvs": [
+        {
+          "_IODisplayEDID": "{length = 256, bytes = 0x00ffffff ffffff00 061044a0 00000000 ... 00000000 00008d90 }",
+          "_name": "Color LCD",
+          "_spdisplays_display-product-id": "a044",
+          "_spdisplays_display-serial-number2": "0",
+          "_spdisplays_display-vendor-id": "610",
+          "_spdisplays_display-week": "36",
+          "_spdisplays_display-year": "2019",
+          "_spdisplays_displayID": "7bd7eef9",
+          "_spdisplays_displayPath": "IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/IGPU@2/AppleIntelFramebuffer@0/AppleMCCSControlModule",
+          "_spdisplays_displayport_device": {
+            "_name": "spdisplays_displayport_info",
+            "spdisplays_displayport_current_bandwidth": " 5.40 Gbps",
+            "spdisplays_displayport_current_lanes": "4",
+            "spdisplays_displayport_current_spread": "0.0%",
+            "spdisplays_displayport_DPCD_version": "1.2",
+            "spdisplays_displayport_errors_lane0": "8",
+            "spdisplays_displayport_errors_lane1": "7",
+            "spdisplays_displayport_errors_lane2": "8",
+            "spdisplays_displayport_errors_lane3": "10",
+            "spdisplays_displayport_hdcp_capability": "spdisplays_displayport_hdcp_incapable",
+            "spdisplays_displayport_max_bandwidth": "5.40 Gbps",
+            "spdisplays_displayport_max_lanes": "4",
+            "spdisplays_displayport_max_spread": "0.5%",
+            "spdisplays_displayport_sink_ascii_name": "eD?gba",
+            "spdisplays_displayport_sink_chip_version": " 0.01",
+            "spdisplays_displayport_sink_count": "1",
+            "spdisplays_displayport_sink_sw_version": " 9",
+            "spdisplays_displayport_sink_vendor": "00 10 fa",
+            "spdisplays_displayport_valid_error_lane0": "1",
+            "spdisplays_displayport_valid_error_lane1": "1",
+            "spdisplays_displayport_valid_error_lane2": "1",
+            "spdisplays_displayport_valid_error_lane3": "1"
+          },
+          "_spdisplays_displayRegID": "9a33",
+          "_spdisplays_edid": "0x00ffffffffffff00061044a000000000241d0104b5221678020f81ae5243b0260d505400000001010101010101010101010101010101e7910050c08037700820980859d71000001a000000fc00436f6c6f72204c43440a20202000000010000000000000000000000000000000000010000000000000000000000000000001ab70127903007f813ffa10000301180f28170000000000000000000000000000004c503136305754312d534a42320a20004630593130383230324d563037335941510a20202020207f8129fa10000201001100000290033e0430057a073d09a70cf6118317ce20852ca23d875529764fa4f2e6bb00000000000000000000008d90",
+          "_spdisplays_pixels": "3584 x 2240",
+          "_spdisplays_resolution": "1792 x 1120 @ 59.00Hz",
+          "spdisplays_ambient_brightness": "spdisplays_yes",
+          "spdisplays_connection_type": "spdisplays_internal",
+          "spdisplays_depth": "CGSThirtytwoBitColor",
+          "spdisplays_display_type": "spdisplays_built-in_retinaLCD",
+          "spdisplays_main": "spdisplays_yes",
+          "spdisplays_mirror": "spdisplays_off",
+          "spdisplays_online": "spdisplays_yes",
+          "spdisplays_pixelresolution": "spdisplays_3072x1920Retina"
+        }
+      ],
+      "spdisplays_revision-id": "0x0002",
+      "spdisplays_vendor": "Intel",
+      "spdisplays_vram_shared": "1536 MB",
+      "sppci_bus": "spdisplays_builtin",
+      "sppci_device_type": "spdisplays_gpu",
+      "sppci_model": "Intel UHD Graphics 630"
+    },
+    {
+      "_name": "kHW_AMDRadeonPro5500MItem",
+      "spdisplays_automatic_graphics_switching": "spdisplays_supported",
+      "spdisplays_device-id": "0x7340",
+      "spdisplays_efi-version": "01.A1.190",
+      "spdisplays_gmux-version": "5.0.0",
+      "spdisplays_metalfamily": "spdisplays_mtlgpufamilymac2",
+      "spdisplays_optionrom-version": "113-D32206U1-020",
+      "spdisplays_pcie_width": "x8",
+      "spdisplays_revision-id": "0x0040",
+      "spdisplays_rom-revision": "113-D3220E-190",
+      "spdisplays_vbios-version": "113-D32206U1-020",
+      "spdisplays_vendor": "sppci_vendor_amd",
+      "spdisplays_vram": "4 GB",
+      "sppci_bus": "spdisplays_pcie_device",
+      "sppci_device_type": "spdisplays_gpu",
+      "sppci_model": "AMD Radeon Pro 5500M"
+    }
+  ],
+  "SPEthernetDataType": [
+    {
+      "_name": "iBridge",
+      "spethernet_BSD_Name": "en5",
+      "spethernet_BUNDLE_IDentifier": "AppleUSBNCM.kext",
+      "spethernet_device_type": "USB",
+      "spethernet_kext_path": "/System/Library/Extensions/AppleUSBNCM.kext",
+      "spethernet_version": "5.0.0",
+      "spusbethernet_mac_address": "ac:de:48:00:11:22",
+      "spusbethernet_PID": "33331",
+      "spusbethernet_VID": "1452"
+    }
+  ],
+  "SPFibreChannelDataType": [],
+  "SPFireWireDataType": [],
+  "SPHardwareDataType": [
+    {
+      "_name": "hardware_overview",
+      "boot_rom_version": "1554.120.19.0.0 (iBridge: 18.16.14663.0.0,0)",
+      "cpu_type": "8-Core Intel Core i9",
+      "current_processor_speed": "2.3 GHz",
+      "l2_cache_core": "256 KB",
+      "l3_cache": "16 MB",
+      "machine_model": "MacBookPro16,1",
+      "machine_name": "MacBook Pro",
+      "number_processors": 8,
+      "packages": 1,
+      "physical_memory": "16 GB",
+      "platform_cpu_htt": "htt_enabled"
+    }
+  ],
+  "SPiBridgeDataType": [
+    {
+      "_name": "Controller Information",
+      "ibridge_boot_uuid": "10F86CB1-F60A-424D-ACA1-2401FBCB63B9",
+      "ibridge_build": "18P4663",
+      "ibridge_model_name": "Apple T2 Security Chip"
+    }
+  ],
+  "SPMemoryDataType": [
+    {
+      "_items": [
+        {
+          "_name": "BANK 0/ChannelA-DIMM0",
+          "dimm_manufacturer": "Micron",
+          "dimm_part_number": "8ATF1G64HZ-2G6E1",
+          "dimm_size": "8 GB",
+          "dimm_speed": "2667 MHz",
+          "dimm_status": "ok",
+          "dimm_type": "DDR4"
+        },
+        {
+          "_name": "BANK 2/ChannelB-DIMM0",
+          "dimm_manufacturer": "Micron",
+          "dimm_part_number": "8ATF1G64HZ-2G6E1",
+          "dimm_size": "8 GB",
+          "dimm_speed": "2667 MHz",
+          "dimm_status": "ok",
+          "dimm_type": "DDR4"
+        }
+      ],
+      "_name": "global_name",
+      "global_ecc_state": "ecc_disabled",
+      "is_memory_upgradeable": "No"
+    }
+  ],
+  "SPNetworkDataType": [
+    {
+      "_name": "Display Ethernet",
+      "hardware": "Ethernet",
+      "interface": "en7",
+      "spnetwork_service_order": 0,
+      "type": "Ethernet"
+    },
+    {
+      "_name": "Wi-Fi",
+      "hardware": "AirPort",
+      "interface": "en0",
+      "spnetwork_service_order": 1,
+      "type": "AirPort"
+    },
+    {
+      "_name": "Bluetooth PAN",
+      "hardware": "Ethernet",
+      "interface": "en6",
+      "spnetwork_service_order": 2,
+      "type": "Ethernet"
+    },
+    {
+      "_name": "Thunderbolt Bridge",
+      "hardware": "Ethernet",
+      "interface": "bridge0",
+      "spnetwork_service_order": 3,
+      "type": "Ethernet"
+    }
+  ],
+  "SPNVMeDataType": [
+    {
+      "_items": [
+        {
+          "_name": "APPLE SSD AP1024N",
+          "bsd_name": "disk0",
+          "detachable_drive": "no",
+          "device_model": "APPLE SSD AP1024N",
+          "device_revision": "1161.100",
+          "partition_map_type": "guid_partition_map_type",
+          "removable_media": "no",
+          "size": "1 TB",
+          "size_in_bytes": 1000555581440,
+          "smart_status": "Verified",
+          "spnvme_linkspeed": "8.0 GT/s",
+          "spnvme_linkwidth": "x4",
+          "spnvme_trim_support": "Yes"
+        }
+      ],
+      "_name": "Apple SSD Controller"
+    }
+  ],
+  "SPParallelATADataType": [],
+  "SPParallelSCSIDataType": [],
+  "SPPCIDataType": [],
+  "SPPrintersDataType": [
+    {
+      "_name": "HP Color LaserJet Pro M478f-lake",
+      "airprintversion": "1.8",
+      "creationDate": "Tuesday, July 6, 2021 at 11:30:38 AM Eastern Daylight Time",
+      "cups filters": [
+        {
+          "application/vnd.cups-pdf": "processed in printer"
+        },
+        {
+          "image/jpeg": "processed in printer"
+        },
+        {
+          "image/urf": "processed in printer"
+        }
+      ],
+      "cupsversion": "2.3.4 (cups-494.1)",
+      "default": "no",
+      "driverversion": "3.0",
+      "Fax Support": "no",
+      "ppd": "HP Color LaserJet Pro M478f-9f-AirPrint",
+      "ppdfileversion": "3.0",
+      "printercommands": "none ",
+      "printerfirmwareversion": "CLRWTRXXXN002.2014A.00:CLRWTRXXXN002.2014A.00",
+      "printerpdes": [],
+      "printersharing": "no",
+      "printserver": "local",
+      "psversion": "(3010.000) 0",
+      "scanner": "yes",
+      "scannerappbundlepath": "-",
+      "scannerapppath": "/System/Library/Image Capture/Devices/AirScanScanner.app",
+      "scannerappversion": "16",
+      "scannerUUID": "5F38E9DA-AEFE-5339-2495-07C7A5CC3DA6",
+      "shared": "no",
+      "status": "offline",
+      "urfversion": "1.4",
+      "uri": "dnssd://HP%20Color%20LaserJet%20Pro%20M478f-lake._ipps._tcp.local./?uuid=5f38e9da-aefe-5339-2495-07c7a5cc3da6"
+    },
+    {
+      "_name": "HP Color LaserJet Pro M478f-lake - Fax",
+      "airprintversion": "1.8",
+      "creationDate": "Tuesday, July 6, 2021 at 11:30:44 AM Eastern Daylight Time",
+      "cups filters": [
+        {
+          "image/urf": "processed in printer"
+        }
+      ],
+      "cupsversion": "2.3.4 (cups-494.1)",
+      "default": "no",
+      "driverversion": "3.0",
+      "Fax Support": "yes",
+      "ppd": "HP Color LaserJet Pro M478f-9f-AirPrint",
+      "ppdfileversion": "3.0",
+      "printercommands": "none ",
+      "printerfirmwareversion": "CLRWTRXXXN002.2014A.00:CLRWTRXXXN002.2014A.00",
+      "printerpdes": [],
+      "printersharing": "no",
+      "printserver": "local",
+      "psversion": "(3010.000) 0",
+      "scanner": "no",
+      "shared": "no",
+      "status": "idle",
+      "urfversion": "1.4",
+      "uri": "dnssd://HP%20Color%20LaserJet%20Pro%20M478f-lake._ipps._tcp.local./?uuid=5f38e9da-aefe-5339-2495-07c7a5cc3da6"
+    },
+    {
+      "_name": "HP ENVY Pro 6400 series",
+      "airprintversion": "1.8",
+      "creationDate": "Wednesday, June 23, 2021 at 6:28:56 PM Eastern Daylight Time",
+      "cups filters": [
+        {
+          "image/jpeg": "processed in printer"
+        },
+        {
+          "image/urf": "processed in printer"
+        }
+      ],
+      "cupsversion": "2.3.4 (cups-494.1)",
+      "default": "yes",
+      "driverversion": "2.0",
+      "Fax Support": "no",
+      "ppd": "HP ENVY Pro 6400 series-AirPrint",
+      "ppdfileversion": "2.0",
+      "printercommands": "none ",
+      "printerfirmwareversion": "VASPLSPP1N001.2049A.00:VASPLSPP1N001.2049A.00",
+      "printerpdes": [],
+      "printersharing": "no",
+      "printserver": "local",
+      "psversion": "(3010.000) 0",
+      "scanner": "no",
+      "shared": "no",
+      "status": "idle",
+      "urfversion": "1.4",
+      "uri": "dnssd://HP%20ENVY%20Pro%206400%20series%20%5B953AB6%5D._ipp._tcp.local./?uuid=189dbdf4-2594-5255-9ec9-a7ad358a7361"
+    }
+  ],
+  "SPPrintersSoftwareDataType": [
+    {
+      "_name": "ppds",
+      "ppds": [
+        {
+          "info path": "/Library/Printers/PPDs/Contents/Resources/EPSON FAX A3.gz",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/PPDs/Contents/Resources/EPSON FAX.gz",
+          "info version": "1.71"
+        }
+      ]
+    },
+    {
+      "_name": "printers",
+      "printers": [
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_jgdir.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_rotate.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq4811.plugin/Contents/Info.plist",
+          "info version": "1.1.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_sfusb.plugin/Contents/Info.plist",
+          "info version": "1.4.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_farec.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_hsl.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_caps.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_qare.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq2415.plugin/Contents/Info.plist",
+          "info version": "1.1.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_smac.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_dscrn.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_tdg.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_ddoct.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_ago8.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq4809.plugin/Contents/Info.plist",
+          "info version": "1.2.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_bjnp.plugin/Contents/Info.plist",
+          "info version": "2.10.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_mldo9.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_racs2.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_lld09.plugin/Contents/Info.plist",
+          "info version": "3.9.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq2413.plugin/Contents/Info.plist",
+          "info version": "2.2.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq4807.plugin/Contents/Info.plist",
+          "info version": "2.3.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_mcrp3.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_mldv0.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_lld.plugin/Contents/Info.plist",
+          "info version": "4.4.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_zoom.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_mldo0.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_mcrpp.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_fare.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_cubs.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_sfusb2.plugin/Contents/Info.plist",
+          "info version": "1.5.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq2414.plugin/Contents/Info.plist",
+          "info version": "1.2.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_ag.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_ausm.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_gercc.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_ijfsh.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_gercg.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq4808.plugin/Contents/Info.plist",
+          "info version": "2.2.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_iom.plugin/Contents/Info.plist",
+          "info version": "1.9.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_mcrp2.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq9601.plugin/Contents/Info.plist",
+          "info version": "2.2.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_mldo8.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Plugins/cijsdm_tonec.plugin/Contents/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Frameworks/CIJSDM.framework/Versions/A/Resources/Info.plist",
+          "info version": "2.1.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Frameworks/CIJSDA.framework/Versions/A/Resources/Info.plist",
+          "info version": "3.1.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Frameworks/CIJSDV.framework/Versions/A/Resources/Info.plist",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/Library/Printers/Canon/IJScanner/Frameworks/CIJSDE.framework/Versions/A/Resources/Info.plist",
+          "info version": "1.4.0"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Libraries/FaxRecipientLib2.framework/Versions/A/Resources/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Libraries/FICLib.framework/Versions/A/Resources/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Libraries/rastertotiff.framework/Versions/A/Resources/TIFFInfo.plist",
+          "info version": "1.73"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Libraries/rastertotiff.framework/Versions/A/Resources/Info.plist",
+          "info version": "1.73"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/FaxIOSupport/FaxReceiveLib.framework/Versions/A/Resources/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/FaxIOSupport/epsonfax.app/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/FaxIOSupport/FaxIOService.framework/Versions/A/Resources/Info.plist",
+          "info version": "1.72"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/PDEs/PDECPlugin.plugin/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Icons/EpsonFax.icons/Contents/Info.plist",
+          "info version": "1.00"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Filter/commandFilter.app/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Filter/rastertoepfax.app/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/AutoSetupTool/EPFaxAutoSetupTool.app/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Help/Epson_IJFax_C.help/Contents/Info.plist",
+          "info version": "1.41"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/SupportPrinters/FaxSupportInfo.bundle/Contents/Info.plist",
+          "info version": "1.10"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Utility/FAX Utility.app/Contents/Info.plist",
+          "info version": "1.73"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Utility/Fax Receive Monitor.app/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Utility/Plugins/FaxTransmissionRecord.plugin/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Utility/Plugins/FaxPrinterSpeedDial.plugin/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Utility/Plugins/FaxSettings.plugin/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Utility/Plugins/FaxCheckConnection.plugin/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Utility/Plugins/FaxReceive.plugin/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Utility/Plugins/FaxSyncContacts.plugin/Contents/Info.plist",
+          "info version": "1.71"
+        },
+        {
+          "info path": "/Library/Printers/EPSON/Fax/Utility/Help/Epson_IJFaxUTY.help/Contents/Info.plist",
+          "info version": "1.41"
+        }
+      ]
+    },
+    {
+      "_name": "image capture devices",
+      "image capture devices": [
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter A1.bundle/Contents/Info.plist",
+          "info version": "1.0.9"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 54.bundle/Contents/Info.plist",
+          "info version": "1.0.11"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/FIT.bundle/Contents/Info.plist",
+          "info version": "3.7.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter DD.bundle/Contents/Info.plist",
+          "info version": "1.1.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 10C.bundle/Contents/Info.plist",
+          "info version": "1.6.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 66.bundle/Contents/Info.plist",
+          "info version": "1.0.12"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter C3.bundle/Contents/Info.plist",
+          "info version": "1.0.2"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 95.bundle/Contents/Info.plist",
+          "info version": "1.2.2"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter EB.bundle/Contents/Info.plist",
+          "info version": "1.0.4"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter CA.bundle/Contents/Info.plist",
+          "info version": "1.0.4"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 111.bundle/Contents/Info.plist",
+          "info version": "1.0.1"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 68.bundle/Contents/Info.plist",
+          "info version": "1.1.5"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 23.bundle/Contents/Info.plist",
+          "info version": "1.0.2"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 52.bundle/Contents/Info.plist",
+          "info version": "1.1.4"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 8B.bundle/Contents/Info.plist",
+          "info version": "1.0.5"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 7A.bundle/Contents/Info.plist",
+          "info version": "1.0.8"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 7C.bundle/Contents/Info.plist",
+          "info version": "1.0.11"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Image Filter2.bundle/Contents/Info.plist",
+          "info version": "4.4.01"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 1D.bundle/Contents/Info.plist",
+          "info version": "1.0.2"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 6E.bundle/Contents/Info.plist",
+          "info version": "1.0.4"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 94.bundle/Contents/Info.plist",
+          "info version": "1.2.2"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter FE.bundle/Contents/Info.plist",
+          "info version": "1.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 86.bundle/Contents/Info.plist",
+          "info version": "1.1.1"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter AD.bundle/Contents/Info.plist",
+          "info version": "1.2.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 32.bundle/Contents/Info.plist",
+          "info version": "1.0.4"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 43.bundle/Contents/Info.plist",
+          "info version": "1.1.6"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter C2.bundle/Contents/Info.plist",
+          "info version": "1.0.2"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/DDC.bundle/Contents/Info.plist",
+          "info version": "1.1.2"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 41.bundle/Contents/Info.plist",
+          "info version": "1.1.3"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 30.bundle/Contents/Info.plist",
+          "info version": "1.0.6"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/ImageFilter.bundle/Contents/Info.plist",
+          "info version": "3.2.1"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 7E.bundle/Contents/Info.plist",
+          "info version": "1.0.4"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 5A.bundle/Contents/Info.plist",
+          "info version": "1.0.5"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/ModelInfo.plist",
+          "info version": "5.7.24"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/DeviceInfo.plist",
+          "info version": "5.7.24"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/ResolutionInfo.plist",
+          "info version": "5.7.24"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/ProfileInfo.plist",
+          "info version": "5.7.24"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/RegionCodeInfo.plist",
+          "info version": "5.7.24"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/DeviceMatchingInfo.plist",
+          "info version": "5.7.24"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/HardwareInfo.plist",
+          "info version": "5.7.24"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/EPSON Scanner.app/Contents/Info.plist",
+          "info version": "5.7.24"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/Canon IJScanner4.app/Contents/Resources/DeviceInfo.plist",
+          "info version": "4.0.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/Canon IJScanner4.app/Contents/Resources/DeviceMatchingInfo.plist",
+          "info version": "4.0.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/Canon IJScanner4.app/Contents/Info.plist",
+          "info version": "4.0.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/Canon IJScanner6.app/Contents/Resources/DeviceInfo.plist",
+          "info version": "4.0.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/Canon IJScanner6.app/Contents/Resources/DeviceMatchingInfo.plist",
+          "info version": "4.0.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/Canon IJScanner6.app/Contents/Info.plist",
+          "info version": "4.0.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/Canon IJScanner2.app/Contents/Resources/DeviceInfo.plist",
+          "info version": "4.0.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/Canon IJScanner2.app/Contents/Resources/DeviceMatchingInfo.plist",
+          "info version": "4.0.0"
+        },
+        {
+          "info path": "/Library/Image Capture/Devices/Canon IJScanner2.app/Contents/Info.plist",
+          "info version": "4.0.0"
+        }
+      ]
+    },
+    {
+      "_name": "image capture support",
+      "image capture support": [
+        {
+          "info path": "/Library/Image Capture/Support/LegacyDeviceDiscoveryHelpers/AirScanLegacyDiscovery.app/Contents/Info.plist",
+          "info version": "16.1"
+        }
+      ]
+    },
+    {
+      "_name": "extensions",
+      "extensions": [
+        {
+          "info path": "/System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/AppleXserveRAID.kext",
+          "info version": "511.120.2"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/FireWireStorageDeviceSpecifics.kext",
+          "info version": "511.120.2"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/USBStorageDeviceSpecifics.kext",
+          "info version": "511.120.2"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/AppleATAPIStorage.kext",
+          "info version": "511.120.2"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/SCSIDeviceSpecifics.kext",
+          "info version": "511.120.2"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/SonyXDCAMDriver.kext",
+          "info version": "511.120.2"
+        },
+        {
+          "info path": "/System/Library/Extensions/AFKACIPCKext.kext",
+          "info version": "1.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleHIDKeyboardEmbedded.kext",
+          "info version": "1.2.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/IOStreamFamily.kext/Contents/PlugIns/IOStreamUserClient.kext",
+          "info version": "1.1.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleBSDKextStarter.kext/Contents/PlugIns/AppleBSDKextStarterVPN.kext",
+          "info version": "1.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleBSDKextStarter.kext/Contents/PlugIns/AppleBSDKextStarterTMPFS.kext",
+          "info version": "1.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleTopCase.kext",
+          "info version": "4050.1"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleTopCase.kext/Contents/PlugIns/AppleTopCaseDriverV2.kext",
+          "info version": "4050.1"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleTopCase.kext/Contents/PlugIns/AppleTopCaseActuatorHIDDriver.kext",
+          "info version": "4050.1"
+        },
+        {
+          "info path": "/System/Library/Extensions/IOVideoFamily.kext/Contents/PlugIns/IOVideoDeviceUserClient.kext",
+          "info version": "1.2.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleGameControllerPersonality.kext",
+          "info version": "1.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/AppleUSBTopCase.kext",
+          "info version": "256"
+        },
+        {
+          "info path": "/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDEventDriver.kext",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDUserClient.kext",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDEventDriverSafeBoot.kext",
+          "info version": "2.0.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/IOUSBFamily.kext/Contents/PlugIns/IOUSBHIDDriverSafeBoot.kext",
+          "info version": "900.4.2"
+        },
+        {
+          "info path": "/System/Library/Extensions/CellPhoneHelper.kext",
+          "info version": "1.4.0"
+        },
+        {
+          "info path": "/System/Library/Extensions/IOUSBHostFamily.kext/Contents/PlugIns/IOUSBHostHIDDeviceSafeBoot.kext",
+          "info version": "1.2"
+        }
+      ]
+    },
+    {
+      "_name": "libExtensions",
+      "libExtensions": []
+    }
+  ],
+  "SPSASDataType": [],
+  "SPSecureElementDataType": [
+    {
+      "ctl_fw": "1.52 rev 98728",
+      "ctl_hw": "a4.1 ()",
+      "ctl_info": " ",
+      "ctl_mw": "4.1.1.36",
+      "se_device": "0x64",
+      "se_fw": "0x0400",
+      "se_hw": "0x00000007",
+      "se_id": "04372E432D5F800202190218133063860C3713CD30174C44",
+      "se_in_restricted_mode": "No",
+      "se_info": " ",
+      "se_os_version": "14.03\n",
+      "se_plt": "N5B2M002C3A50000",
+      "se_prod_signed": "Yes"
+    }
+  ],
+  "SPSerialATADataType": [],
+  "SPSoftwareDataType": [
+    {
+      "_name": "os_overview",
+      "kernel_version": "Darwin 20.5.0",
+      "os_version": "macOS 11.4 (20F71)",
+      "uptime": "up 16:22:7:18"
+    }
+  ],
+  "SPSPIDataType": [],
+  "SPThunderboltDataType": [
+    {
+      "_name": "thunderbolt_bus_1",
+      "device_name_key": "MacBook Pro",
+      "domain_uuid_key": "7112735B-DB74-A05B-A3D7-19C1BF18819B",
+      "receptacle_1_tag": {
+        "current_link_width_key": "0x1",
+        "current_speed_key": "Up to 40 Gb/s x1",
+        "lc_version_key": "1.43.0",
+        "link_status_key": "0x101",
+        "receptacle_id_key": "4",
+        "receptacle_status_key": "receptacle_no_devices_connected"
+      },
+      "receptacle_2_tag": {
+        "current_link_width_key": "0x1",
+        "current_speed_key": "Up to 40 Gb/s x1",
+        "lc_version_key": "1.43.0",
+        "link_status_key": "0x101",
+        "receptacle_id_key": "3",
+        "receptacle_status_key": "receptacle_no_devices_connected"
+      },
+      "route_string_key": "0",
+      "switch_uid_key": "0x0001C2DC1D607001",
+      "switch_version_key": "63.5",
+      "vendor_name_key": "Apple Inc."
+    },
+    {
+      "_name": "thunderbolt_bus_0",
+      "device_name_key": "MacBook Pro",
+      "domain_uuid_key": "23B1438B-F0D7-7356-8E46-3608573D3E82",
+      "receptacle_1_tag": {
+        "current_link_width_key": "0x1",
+        "current_speed_key": "Up to 40 Gb/s x1",
+        "lc_version_key": "1.43.0",
+        "link_status_key": "0x101",
+        "receptacle_id_key": "2",
+        "receptacle_status_key": "receptacle_no_devices_connected"
+      },
+      "receptacle_2_tag": {
+        "current_link_width_key": "0x1",
+        "current_speed_key": "Up to 40 Gb/s x1",
+        "lc_version_key": "1.43.0",
+        "link_status_key": "0x101",
+        "receptacle_id_key": "1",
+        "receptacle_status_key": "receptacle_no_devices_connected"
+      },
+      "route_string_key": "0",
+      "switch_uid_key": "0x0001C2DC1D607000",
+      "switch_version_key": "63.5",
+      "vendor_name_key": "Apple Inc."
+    }
+  ],
+  "SPUSBDataType": [
+    {
+      "_name": "USB31Bus",
+      "host_controller": "AppleUSBXHCITR",
+      "pci_device": "0x15ec ",
+      "pci_revision": "0x0006 ",
+      "pci_vendor": "0x8086 ",
+      "usb_bus_number": "0x00 "
+    },
+    {
+      "_name": "USB31Bus",
+      "host_controller": "AppleUSBXHCITR",
+      "pci_device": "0x15ec ",
+      "pci_revision": "0x0006 ",
+      "pci_vendor": "0x8086 ",
+      "usb_bus_number": "0x01 "
+    },
+    {
+      "_name": "USB31Bus",
+      "host_controller": "AppleIntelCNLUSBXHCI",
+      "pci_device": "0xa36d ",
+      "pci_revision": "0x0010 ",
+      "pci_vendor": "0x8086 "
+    },
+    {
+      "_items": [
+        {
+          "_name": "composite_device",
+          "bcd_device": "2.14",
+          "Built-in_Device": "Yes",
+          "bus_power": "500",
+          "bus_power_used": "500",
+          "device_speed": "high_speed",
+          "extra_current_used": "0",
+          "location_id": "0x80800000 / 8",
+          "manufacturer": "Apple",
+          "product_id": "0x8104",
+          "serial_num": "000000000000",
+          "vendor_id": "apple_vendor_id"
+        },
+        {
+          "_name": "Touch Bar Backlight",
+          "bcd_device": "2.01",
+          "location_id": "0x80700000",
+          "manufacturer": "Apple Inc.",
+          "product_id": "0x8102",
+          "serial_num": "0000000000000000",
+          "vendor_id": "apple_vendor_id"
+        },
+        {
+          "_name": "Touch Bar Display",
+          "bcd_device": "2.01",
+          "location_id": "0x80600000",
+          "manufacturer": "Apple Inc.",
+          "product_id": "0x8302",
+          "serial_num": "0000000000000000",
+          "vendor_id": "apple_vendor_id"
+        },
+        {
+          "_name": "Apple Internal Keyboard / Trackpad",
+          "bcd_device": "2.75",
+          "location_id": "0x80500000",
+          "manufacturer": "Apple Inc.",
+          "product_id": "0x0340",
+          "serial_num": "FM7102501T0HYYKBW+TVZ",
+          "vendor_id": "apple_vendor_id"
+        },
+        {
+          "_name": "Headset",
+          "bcd_device": "2.14",
+          "location_id": "0x80400000",
+          "manufacturer": "Apple",
+          "product_id": "0x8103",
+          "serial_num": "000000000000",
+          "vendor_id": "apple_vendor_id"
+        },
+        {
+          "_name": "Ambient Light Sensor",
+          "bcd_device": "2.01",
+          "location_id": "0x80300000",
+          "manufacturer": "Apple Inc.",
+          "product_id": "0x8262",
+          "serial_num": "000000000000",
+          "vendor_id": "apple_vendor_id"
+        },
+        {
+          "_name": "FaceTime HD Camera (Built-in)",
+          "bcd_device": "2.01",
+          "location_id": "0x80200000",
+          "manufacturer": "Apple Inc.",
+          "product_id": "0x8514",
+          "serial_num": "CC2104502BB06G7FG",
+          "vendor_id": "apple_vendor_id"
+        },
+        {
+          "_name": "Apple T2 Controller",
+          "bcd_device": "2.01",
+          "location_id": "0x80100000",
+          "manufacturer": "Apple Inc.",
+          "product_id": "0x8233",
+          "serial_num": "0000000000000000",
+          "vendor_id": "apple_vendor_id"
+        }
+      ],
+      "_name": "T2Bus",
+      "host_controller": "AppleUSBVHCIBCE"
+    }
+  ],
+  "SPWWANDataType": []
+}
